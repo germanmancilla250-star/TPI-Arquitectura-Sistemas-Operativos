@@ -20,5 +20,10 @@ Para ejecutar el programa desde una terminal de Linux:
 
     python3 sistema.py
 
-Autor
-Germán Mancilla
+# Enlaces del Trabajo Práctico Integrador
+
+**Repositorio de GitHub:**  
+https://github.com/germanmancilla250-star/TPI-Arquitectura-Sistemas-Operativos
+
+**Video explicativo:**  
+https://drive.google.com/file/d/1yIsWE6084spDnr62iuMlukwnRgVzG834/view?usp=sharing
